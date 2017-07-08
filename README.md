@@ -1,22 +1,42 @@
 # C_basics
 Best basics needed for getting started on C language.
 
+
 00_04 01_03
+
 Hello World in C 
 
+
+
 02_0x
+
+
+
 #include and #define
+
 Breaking Up Code Into Blocks
+
 Setting values to use later
+
 Using statements and expressions
+
 Adding comments to code for clarity
 
+
+
 03_0x
+
 Data types
+
 Displays sizes of integer data types
+
 Declaring and using floating-point types
+
 Using the void data type
+
 Declaring and using the Boolean type
+
+
 
 04_0x
 What are strings
