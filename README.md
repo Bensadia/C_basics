@@ -2,13 +2,14 @@
 Best basics needed for getting started on C language.
 
 
-00_04 01_03
+file: 00_04 01_03
 
 Hello World in C 
 
 
 
-02_0x
+
+file: 02_0x
 
 
 
@@ -24,7 +25,8 @@ Adding comments to code for clarity
 
 
 
-03_0x
+
+file: 03_0x
 
 Data types
 
@@ -38,7 +40,8 @@ Declaring and using the Boolean type
 
 
 
-04_0x
+
+file: 04_0x
 
 What are strings
 
@@ -47,7 +50,8 @@ Implementing Techniques for Screen-based I/O
 Built-in string functions
 
 
-05_0x
+
+file: 05_0x
 
 Choosing appropriate variable names
 
@@ -57,7 +61,8 @@ Simple assignment statements, Ansi-style
 
 
 
-06_0x
+
+file: 06_0x
 
 Addition, subtraction, multiplication, division, modulus, increment and decrement integer by 1
 
@@ -81,7 +86,8 @@ Celsius, Fahrenheit, Kelvin calculations -- challenge --
 
 
 
-07_0x
+
+file: 07_0x
 
 Functional programming
 
@@ -95,7 +101,8 @@ Functions prototypes
 
 
 
-08_0x
+
+file: 08_0x
 
 Change the course of action with if-statements
 
@@ -109,7 +116,8 @@ Solution to  -- challenge --
 
 
 
-09_0x
+
+file: 09_0x
 
 Using the FOR loop
 
@@ -123,7 +131,8 @@ Breaking out of loops
 
 
 
-10_0x
+
+file: 10_0x
 
 Arrays
 
@@ -137,7 +146,8 @@ Using loops for searching and sorting
 
 
 
-11_0x
+
+file: 11_0x
 
 What is a pointer
 
@@ -153,7 +163,8 @@ Managing memory using allocation and release
 
 
 
-12_0x
+
+file: 12_0x
 
 What are structures?
 
@@ -165,7 +176,8 @@ Understanding and performing union operations
 
 
 
-13_0x
+
+file: 13_0x
 
 Sequential file read and write
 
@@ -175,7 +187,8 @@ Use appropriate file access modes
 
 
 
-14_0x
+
+file: 14_0x
 
 User defined functions, Ansi-style
 
@@ -197,7 +210,8 @@ Recursive function calls
 
 
 
-15_0x
+
+file: 15_0x
 
 Defining and using macros
 
@@ -207,7 +221,8 @@ Using conditional directives
 
 
 
-16_0x
+
+file: 16_0x
 
 Meaningful naming conventions
 
@@ -221,7 +236,8 @@ Developing a portable code
 
 
 
-17_0x
+
+file: 17_0x
 
 -- challenge --
 
@@ -229,13 +245,15 @@ Developing a portable code
 
 
 
-18_0x
+
+file: 18_0x
 
 Linked list in C
 
 
 
-19_0x
+
+file: 19_0x
 
 Data types used by the sockets interface
 
@@ -264,7 +282,8 @@ gethostname()—Who am I?
 
 
 
-20_0x
+
+file: 20_0x
 
 A Simple Stream Server in C
 
@@ -272,7 +291,8 @@ A Simple Stream Server in C
 
 
 
-30_0x
+
+file: 30_0x
 
 A Simple DGRM Server in C
 
