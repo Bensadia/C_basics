@@ -4,7 +4,7 @@
  Author      : Bensaadia Mohammed
  Version     : 1.0
  Copyright   : © 2017 
- Description : 
+ Description : Functions prototypes
  ============================================================================
  */
 //Functions prototypes
